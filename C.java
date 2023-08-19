@@ -1,1 +1,3 @@
-public class C { }
+public class C {
+    //Fred's comment
+}

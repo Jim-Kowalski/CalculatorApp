@@ -2,7 +2,7 @@ public class Calc{
     public static void main(String args[])
     {
 
-        System.out.println("Hello, wonderful suckers!");
+        System.out.println("Hello, wonderful people!");
 
     }
 }
